@@ -1,0 +1,7 @@
+version: 0.0
+os: windows
+files:
+  - source: .\DemoApp
+    destination: C:\inetpub\wwwroot\DemoApp
+  
+

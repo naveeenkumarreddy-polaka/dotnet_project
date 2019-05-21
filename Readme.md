@@ -1,0 +1,1 @@
+This is a sample ASP .NET MVC application which whill be used for the deployment in AWS cloud.
